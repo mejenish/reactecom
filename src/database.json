@@ -6,7 +6,8 @@
         "brand": "Samsung",
         "model": "Galaxy S24 Ultra",
         "price": 1299.99,
-        "features": ["200MP Camera", "Snapdragon 8 Gen 3", "5000mAh Battery"]
+        "features": ["200MP Camera", "Snapdragon 8 Gen 3", "5000mAh Battery"],
+        "picture": "https://cdn.hukut.com/samsung-s25-ultra-price-in-nepal.png1738228459554"
       },
       {
         "id": 2,
@@ -14,7 +15,8 @@
         "brand": "Apple",
         "model": "MacBook Air M3",
         "price": 1499.99,
-        "features": ["M3 Chip", "16GB RAM", "512GB SSD"]
+        "features": ["M3 Chip", "16GB RAM", "512GB SSD"],
+        "picture": "https://cdn.hukut.com/samsung-s25-ultra-price-in-nepal.png1738228459554"
       },
       {
         "id": 3,
@@ -22,7 +24,8 @@
         "brand": "Garmin",
         "model": "Fenix 7",
         "price": 699.99,
-        "features": ["GPS Tracking", "Heart Rate Monitor", "AMOLED Display"]
+        "features": ["GPS Tracking", "Heart Rate Monitor", "AMOLED Display"],
+        "picture": "https://cdn.hukut.com/samsung-s25-ultra-price-in-nepal.png1738228459554"
       },
       {
         "id": 4,
@@ -30,7 +33,8 @@
         "brand": "Apple",
         "model": "iPad Pro 12.9",
         "price": 1099.99,
-        "features": ["M2 Chip", "120Hz Display", "Face ID"]
+        "features": ["M2 Chip", "120Hz Display", "Face ID"],
+        "picture": "https://cdn.hukut.com/samsung-s25-ultra-price-in-nepal.png1738228459554"
       },
       {
         "id": 5,
@@ -38,7 +42,8 @@
         "brand": "Sony",
         "model": "WF-1000XM5",
         "price": 299.99,
-        "features": ["Noise Cancelling", "Hi-Res Audio", "Long Battery Life"]
+        "features": ["Noise Cancelling", "Hi-Res Audio", "Long Battery Life"],
+        "picture": "https://cdn.hukut.com/samsung-s25-ultra-price-in-nepal.png1738228459554"
       },
       {
         "id": 6,
@@ -46,7 +51,8 @@
         "brand": "Sony",
         "model": "PlayStation 5",
         "price": 499.99,
-        "features": ["8K Support", "Ultra-fast SSD", "DualSense Controller"]
+        "features": ["8K Support", "Ultra-fast SSD", "DualSense Controller"],
+        "picture": "https://cdn.hukut.com/samsung-s25-ultra-price-in-nepal.png1738228459554"
       },
       {
         "id": 7,
@@ -54,7 +60,8 @@
         "brand": "LG",
         "model": "UltraGear 27GN950",
         "price": 899.99,
-        "features": ["4K UHD", "144Hz Refresh Rate", "HDR 600"]
+        "features": ["4K UHD", "144Hz Refresh Rate", "HDR 600"],
+        "picture": "https://cdn.hukut.com/samsung-s25-ultra-price-in-nepal.png1738228459554"
       },
       {
         "id": 8,
@@ -62,7 +69,8 @@
         "brand": "Keychron",
         "model": "K8 Pro",
         "price": 129.99,
-        "features": ["Hot-swappable Keys", "Wireless/Bluetooth", "RGB Lighting"]
+        "features": ["Hot-swappable Keys", "Wireless/Bluetooth", "RGB Lighting"],
+        "picture": "https://cdn.hukut.com/samsung-s25-ultra-price-in-nepal.png1738228459554"
       },
       {
         "id": 9,
@@ -70,7 +78,8 @@
         "brand": "Samsung",
         "model": "T7 Shield",
         "price": 159.99,
-        "features": ["2TB Storage", "USB 3.2", "Shock-resistant"]
+        "features": ["2TB Storage", "USB 3.2", "Shock-resistant"],
+        "picture": "https://cdn.hukut.com/samsung-s25-ultra-price-in-nepal.png1738228459554"
       },
       {
         "id": 10,
@@ -78,7 +87,8 @@
         "brand": "Amazon",
         "model": "Echo Dot 5th Gen",
         "price": 49.99,
-        "features": ["Alexa Built-in", "Compact Design", "Improved Bass"]
+        "features": ["Alexa Built-in", "Compact Design", "Improved Bass"],
+        "picture": "https://cdn.hukut.com/samsung-s25-ultra-price-in-nepal.png1738228459554"
       }
     ]
   }
