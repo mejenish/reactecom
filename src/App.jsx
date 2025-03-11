@@ -1,25 +1,19 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import Footer from './components/Footer'
-import productData from "./database.json"
-import Products from './components/Products'
-
+import { Route, Routes } from 'react-router-dom'
+import Home from './pages/Home'
+import About from './pages/About'
+import Productss from './pages/Productss'
 
 const App = () => {
-  console.log(productData.products[0]);
-  const listedProducts = productData.products;
   return (
     <div>
-      <Navbar />
-      {
-        listedProducts.map((data, i) => {
-          return <Products key={listedProducts[i].id} pName={data.name} pModel={data.model} pPrice={data.price} pBrand={data.brand} pFeatures={data.features} pPicture={data.picture} />
-        })
-      }
-      <Footer />
+      <Routes>
+        <Route path='/' element={<Home />}/>
+        <Route path='/About' element={<About />}/>
+        <Route path='/Products' element={<Productss />}/>
+      </Routes>
     </div>
   )
 }
 
 export default App
-
