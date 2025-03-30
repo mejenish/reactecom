@@ -18,7 +18,7 @@ const Products = (props) => {
         })}</h4>
       </ol>
       <h3 className='font-medium text-orange-600 absolute bottom-14'>${Math.round(props.pPrice)}</h3>
-      <button className='text-white bg-emerald-600 px-3 py-2 rounded absolute bottom-2 center w-60'>Buy Now</button>
+      <button className='tex777 t-white bg-emerald-600 px-3 py-2 rounded absolute bottom-2 center w-60'>Buy Now</button>
     </div>
   )
 }
