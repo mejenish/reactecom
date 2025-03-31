@@ -6,8 +6,6 @@ const Products = (props) => {
     width: "auto",
     margin: "0px 0px 0px 40px"
   }
-
-  
   return (
     <div className='inline-block h-120 w-65 py-6 px-3 bg-gray-100 ml-5 mt-10 rounded relative'>
       <img src={props.pPicture} alt='products' style={sStyle} />
